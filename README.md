@@ -79,6 +79,8 @@ The app follows the standard **Electron dual-process architecture** with a stric
                                   iCloud/OneDrive
 ```
 
+![Architecture Diagram](docs/architecture.svg)
+
 > 📐 See [`docs/architecture.md`](./docs/architecture.md) for detailed component breakdown.
 
 ---

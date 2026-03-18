@@ -330,8 +330,9 @@ db.exec(`VACUUM INTO '${destPath}';`);
 
 ## 📸 Screenshots / 스크린샷
 
-> Screenshots will be added here.  
-> 스크린샷은 여기에 추가될 예정입니다.
+![Favorite](docs/screenshots/favorite.png)
+![Inventory](docs/screenshots/inventory.png)
+![Calculation](docs/screenshots/calculation.png)
 
 ---
 
